@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Send mailgun events as messages to slack channel",
   "main": "index.js",
+  "repository": "https://github.com/adig/mailgun-events-slack",
   "license": "MIT",
   "author": "Adrian Geană",
   "private": false,
