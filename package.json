@@ -1,0 +1,17 @@
+{
+  "name": "mailgun-events-slack",
+  "version": "1.0.0",
+  "description": "Send mailgun events as messages to slack channel",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Adrian Geană",
+  "private": false,
+  "dependencies": {
+    "@slack/webhook": "^5.0.1",
+    "dayjs": "^1.8.16",
+    "mailgun-js": "^0.22.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}

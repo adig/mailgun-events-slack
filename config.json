@@ -1,0 +1,16 @@
+{
+	"filter": {
+		"limit": 300,
+		"tags": "test"
+	},
+	"colors": {
+		"accepted": "#f5daa6",
+		"rejected": "#de4e2b",
+		"delivered": "#58a252",
+		"failed": "#c2291c",
+		"complained": "#c2291c",
+		"opened": "#59a3dd",
+		"default": "#e8e8e8"
+	},
+	"polling_time": 30
+}
