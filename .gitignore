@@ -88,4 +88,6 @@ typings/
 
 startlocal.sh
 
+systemd.service
+
 # End of https://www.gitignore.io/api/node

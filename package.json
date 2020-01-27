@@ -9,6 +9,7 @@
   "private": false,
   "dependencies": {
     "@slack/webhook": "^5.0.1",
+    "console-stamp": "^0.2.9",
     "dayjs": "^1.8.16",
     "mailgun-js": "^0.22.0"
   },

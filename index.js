@@ -1,9 +1,11 @@
+require('console-stamp')(console);
 const dayjs = require('dayjs'),
 	{ sendMessage } = require('./src/slack'),
 	{ fetchEvents } = require('./src/mailgun'),
 	CONFIG = require('./config.json');
 
-let endDate = dayjs().subtract(5, 'minute').unix();;
+
+let endDate = dayjs().subtract(5, 'minute').unix();
 
 const fetch = () => {
 
