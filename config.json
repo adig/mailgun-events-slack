@@ -1,7 +1,7 @@
 {
 	"filter": {
 		"limit": 300,
-		"tags": "test"
+		"tags": "paymentreminder"
 	},
 	"colors": {
 		"accepted": "#f5daa6",
@@ -12,5 +12,5 @@
 		"opened": "#59a3dd",
 		"default": "#e8e8e8"
 	},
-	"polling_time": 30
+	"polling_time": 1000
 }
